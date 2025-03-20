@@ -1,0 +1,100 @@
+Attempting to connect to the Chroma db at /home/malice/Documents/Codes/RAG/RAG/db/chroma_db
+Successfully Connected to Chroma DB
+Retriever initialized Successfully
+
+---- Relevant Documents ----
+Document 1: 
+Note 13 — Segment Information
+We have seven industry-based operating segments, which are aggregated into four reportable business segments: 
+• Financial Services, which consists of the banking and insurance operating segments;
+• Health Sciences, which consists of a single operating segment of the same name;
+• Products and Resources, which consists of the retail and consumer goods; manufacturing, logistics, energy, and 
+utilities; and travel and hospitality operating segments; and
+• Communications, Media and Technology, which consists of a single operating segment of the same name.
+Our segments are industry-based, and as such, we report revenue from clients in the segment with which our clients are 
+most closely aligned. Our client partners, account executives and client relationship managers are aligned in accordance with 
+the specific industries they serve. Our CODM evaluates the Company's performance and allocates resources based on segment 
+revenues and operating profit. Segment operating profit is defined as income from operations before unallocated costs. 
+Generally, operating expenses for each operating segment have similar characteristics and are subject to the same factors, 
+pressures and challenges. However, the economic environment and its effects on industries served by the operating segments 
+may affect revenues and operating expenses to differing degrees. 
+Corporate expenses, expenses related to our NextGen program, a portion of depreciation and amortization and the impact 
+of the settlements of the cash flow hedges are not allocated to individual segments in internal management reports used by the 
+CODM. Accordingly, such expenses are excluded from segment operating profit and are included below as “unallocated costs” 
+and adjusted against our total income from operations. Additionally, we do not disclose assets by segment as a significant 
+portion of the assets is used interchangeably among the segments and the CODM does not review such information.
+For revenues by reportable segment and geographic area, see Note 2. 
+Segment operating profits by reportable segment were as follows for the three months ended March 31:
+ (in millions) 2024 2023
+Financial Services $ 279 $ 306 
+Health Sciences  311  327 
+Products and Resources  228  215 
+Communications, Media and Technology  137  158 
+Total segment operating profit  955  1,006 
+Less: unallocated costs  260  304 
+Income from operations $ 695 $ 702 
+Geographic Area Information
+Long-lived assets by geographic area are as follows:
+As of
+ (in millions) March 31, 2024 December 31, 2023
+Long-lived Assets: (1)
+North America(2) $ 329 $ 335 
+Europe  85  90 
+Rest of World (3)  622  623 
+Total $ 1,036 $ 1,048 
+(1) Long-lived assets include property and equipment, net of accumulated depreciation and amortization.
+(2) Substantially all relates to the United States.
+(3) Substantially all relates to India.
+Table of Contents
+Cognizant Technology Solutions 23 March 31, 2024 Form 10-Q
+
+Source: /home/malice/Documents/Codes/RAG/RAG/Source/Q1.pdf
+
+Document 2: 
+Results of Operations
+Three Months Ended March 31, 2024 Compared to Three Months Ended March 31, 2023 
+The following table sets forth, for the periods indicated, certain financial data for the three months ended March 31:
+  % of  % of Increase / Decrease
+ (Dollars in millions, except per share data) 2024 Revenues 2023 Revenues $ %
+Revenues $ 4,760  100.0 $ 4,812  100.0 $ (52)  (1.1) 
+Cost of revenues(a)  3,146  66.1  3,143  65.3  3  0.1 
+Selling, general and administrative expenses(a)  765  16.1  835  17.4  (70)  (8.4) 
+Restructuring charges  23  0.5  —  —  23 N/A
+Depreciation and amortization expense  131  2.8  132  2.7  (1)  (0.8) 
+Income from operations  695  14.6  702  14.6  (7)  (1.0) 
+Other income (expense), net  27  36  (9)  (25.0) 
+Income before provision for income taxes  722  15.2  738  15.3  (16)  (2.2) 
+Provision for income taxes  (179)  (158)  (21)  13.3 
+Income (loss) from equity method investments  3  —  3 N/A
+Net income $ 546  11.5 $ 580  12.1 $ (34)  (5.9) 
+Diluted earnings per share $ 1.10 $ 1.14 $ (0.04)  (3.5) 
+Other Financial Information3
+Adjusted Income from Operations and Adjusted 
+Operating Margin $ 718  15.1 $ 702  14.6 $ 16  2.3 
+Adjusted Diluted EPS $ 1.12 $ 1.11 $ 0.01  0.9 
+ 
+(a) Exclusive of depreciation and amortization expense.
+N/A Not applicable
+Revenues 
+During the quarter ended March 31, 2024, revenues decreased by $52 million as compared to the quarter ended March 31, 
+2023, representing a decrease of 1.1%, or a decrease of 1.2% on a constant currency basis3. Our recently completed acquisitions 
+contributed 70 basis points to the change in revenue. 
+Table of Contents
+Cognizant Technology Solutions 27 March 31, 2024 Form 10-Q
+                      
+3Adjusted Income from Operations, Adjusted Operating Margin, Adjusted Diluted EPS and constant currency revenue growth 
+are not measures of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more 
+information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+
+Source: /home/malice/Documents/Codes/RAG/RAG/Source/Q1.pdf
+
+Document 3: 
+Revenues - Reportable Business Segments and Geographic Markets
+Revenues of $4,760 million across our business segments and geographies were as follows for the three months ended 
+March 31, 2024:
+Business Segments
+FS
+$1,385M
+HS
+$1,416M
+P&R
